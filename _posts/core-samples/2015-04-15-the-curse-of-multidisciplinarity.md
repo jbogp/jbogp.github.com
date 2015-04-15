@@ -1,7 +1,7 @@
 ---
 layout: post
 category : blog
-tagline: "The curse of multidisciplinarity (when you need a visa)"
+tagline: ""
 tags : [blog, visa, silicone valley, job search, mulitdisciplinarity]
 ---
 {% include JB/setup %}
