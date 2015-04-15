@@ -25,5 +25,5 @@ I came looking for a job in the Silicone Valley (through the amazing "Insight Da
   - No sorry I need to be sponsored, so I can't start working before at least 6 months, but probably a year
   - Oh. Well, we need someone now, sorry, but if you get a work visa from another company please reach back to us, we'd love to hear from you !
 
-So there you have it, of course I haven't interviewed with every company out there, but my ESTA temporary visa was expiring so got back to France. Too bad California, I actually liked you.
+_So there you have it, of course I haven't interviewed with every company out there, but my ESTA temporary visa was expiring so got back to France._ **Too bad California, I actually liked you.**
 
